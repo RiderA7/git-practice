@@ -8,4 +8,4 @@ string 2-2
 string 2-3
 string 2-4
 
-feature comm 1
+feature comm 1 and 2
